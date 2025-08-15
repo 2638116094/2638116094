@@ -18,7 +18,6 @@
 
 
 - 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... ** PHP, Django and React.js**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
