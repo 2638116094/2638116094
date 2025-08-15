@@ -18,8 +18,6 @@
 
 
 - 🔭 I’m currently working on **vKarma Webapp**
-- 💬 Ask me about ... **Web Develpoment**
-- ⚡ Fun fact ... **Anime**❤
 - 📫 How to reach me **2638116094@qq.com**
 <h4>Programming Languages: </h4>
 <p align="left">
